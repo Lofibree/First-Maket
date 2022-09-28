@@ -61,8 +61,6 @@ body {
     /* border: 1px solid red; */
 }
 
-.header {}
-
 .menu__mobile {
     display: none;
 }
@@ -280,20 +278,12 @@ body {
     color: #767474;
 }
 
-.icon-twitter {}
-
-.icon-instagram {}
-
 
 /* Provide */
 
 .provide {
     background-color: #181818;
 }
-
-.provide .block__header {}
-
-.provide .block__header {}
 
 .provide .block__title {
     color: #ffffff;
@@ -339,8 +329,6 @@ body {
     margin: 0 auto 43px;
 }
 
-.icon-chart-outline {}
-
 .provide__item-title {
     font-family: "HelveticaNeueLTProLt", sans-serif;
     font-size: 26px;
@@ -360,24 +348,11 @@ body {
     margin-bottom: 155px;
 }
 
-.icon-heart {}
-
-.icon-upload-cloud-outline {}
-
 
 /* Contacts */
 
-.contacts {
-}
-.block__header {
-}
 .contacts .block__title {
     padding-top: 95px;
-}
-.contacts .block__text {
-
-}
-.contacts__inner {
 }
 .contact__icon-box {
     display: flex;
@@ -397,8 +372,6 @@ body {
     font-size: 21px;
 }
 
-.icon-phone {
-}
 
 .contacts__text {
     margin-bottom: 12px;
@@ -421,10 +394,6 @@ body {
     text-decoration: underline;
 }
 
-.icon-location {
-}
-.icon-mail-alt {
-}
 .contact__form {
     display: flex;
     flex-direction: column;
